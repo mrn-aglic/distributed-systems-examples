@@ -1,0 +1,15 @@
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/bin/Debug/net5.0/SimpleServer.deps.json
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/bin/Debug/net5.0/SimpleServer.runtimeconfig.json
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/bin/Debug/net5.0/SimpleServer.runtimeconfig.dev.json
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/bin/Debug/net5.0/SimpleServer.dll
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/bin/Debug/net5.0/ref/SimpleServer.dll
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/bin/Debug/net5.0/SimpleServer.pdb
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.csprojAssemblyReference.cache
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.AssemblyInfoInputs.cache
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.AssemblyInfo.cs
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.csproj.CoreCompileInputs.cache
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.dll
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/ref/SimpleServer.dll
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.pdb
+/Users/marinagliccuvic/RiderProjects/SimpleServer/SimpleServer/obj/Debug/net5.0/SimpleServer.genruntimeconfig.cache
