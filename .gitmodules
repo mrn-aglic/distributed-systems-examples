@@ -16,3 +16,6 @@
 [submodule "vj09-mrn-aglic"]
 	path = vj09-mrn-aglic
 	url = https://github.com/pmfsplit/vj09-mrn-aglic
+[submodule "vj10-mrn-aglic"]
+	path = vj10-mrn-aglic
+	url = https://github.com/pmfsplit/vj10-mrn-aglic
